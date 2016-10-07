@@ -3,7 +3,7 @@
     "company": "Universitaet Wien",
     "tags": [ "Clean Code", "TDD", "Software Architecture", "Angular" ],
     "when": {
-      "saturday": true,
+      "saturday": no,
       "sunday": true
     },
     "what_is_my_connection_to_javascript": "Business Process Management Notation (Engine2Engine) transformations",
